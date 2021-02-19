@@ -1,0 +1,7 @@
+.rendered-cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row wrap;
+  max-width: 1920px;
+}
